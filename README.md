@@ -1,1 +1,1 @@
-# AI projects
+# AI (Notes + projects)
