@@ -1,1 +1,3 @@
-# AI (Notes + projects)
+# AI 
+
+## Collection of AI projects using Tensorflow.
