@@ -1,3 +1,3 @@
-# AI 
+# Machine Learning
 
-## Collection of AI projects.
+## Collection of ML projects.
